@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Speed Reader Notetaker</string>
+    <string name="file_name">File Name</string>
+    <string name="file_date">File Date</string>
+</resources>
